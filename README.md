@@ -1,3 +1,5 @@
+# A Face detection POC
+
 # IMPORTANT: Bug Fixes
 
 ## `navigator.getUserMedia`
